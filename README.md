@@ -11,6 +11,7 @@
 * Graduated as a telecommunications engineer in 2019. 
 * Got a scolarship to finish my studies in France, where I spent six months working on some machine learning projects and my thesis.
 * Currently doing a masters degree in Madrid (Big Data)
+* I have certified a C2 level in english and a B2 level in french.
 
 ## Online courses I've taken.
 
@@ -19,3 +20,10 @@
 * UNIVERSITY OF MICHIGAN - Applied Data Science with Python Specialization
 
 ## Projects I've worked on.
+
+Face recognition with a Raspberry pi camera: Using a raspberry pi, create a system where one can add people to a database taking some pictures, and then recognize those faces to open a door(in this case, turn on a led light connected to its output). System is access through an interactive menu throught the terminal. Using mostly OpenCV, Dbil and Imutils
+
+Traffic sign recognition. Working with the German Traffic Sign Benchmark dataset, creating a model that's able to properly recognize the different traffic signs and classify them properly. Using a CNN model and the keras library.
+
+Whatsapp chat analyzer.
+
