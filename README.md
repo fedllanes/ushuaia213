@@ -28,3 +28,16 @@ Traffic sign recognition. Working with the German Traffic Sign Benchmark dataset
 Whatsapp chat analyzer. Whatsapp allows you to export your chat into a txt file, using this file, we can do some data analysis to get the most relevant information about our chats.
 
 Flight delay predictor. Using the "2015 Flight Delays and Cancellations" dataset, we analyze some interesting data about flights in the US, and we can try to use some models to make predictions about delayed flights.
+
+
+##  My contact information
+<div align="center">
+</a>
+<a href="https://www.linkedin.com/in/fedllanes94/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>
+
+
+<br/>
+
