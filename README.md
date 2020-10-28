@@ -20,7 +20,7 @@
 
 * Dataquest (all the four paths)
 * MIT MicroMasters Program in Statistics and Data Science(Probability, Statistics, Machine learning with Python and Data analysis with R)
-* UNIVERSITY OF MICHIGAN - Applied Data Science with Python Specialization
+* University of Michigan - Applied Data Science with Python Specialization
 
 ## Projects I've worked on (Python)
 
