@@ -22,7 +22,7 @@
 * MIT MicroMasters Program in Statistics and Data Science(Probability, Statistics, Machine learning with Python and Data analysis with R)
 * UNIVERSITY OF MICHIGAN - Applied Data Science with Python Specialization
 
-## Projects I've worked on.
+## Projects I've worked on (Python)
 
 Face recognition with a Raspberry pi camera: Using a raspberry pi, create a system where one can add people to a database taking some pictures, and then recognize those faces to open a door(in this case, turn on a led light connected to its output). System is access through an interactive menu throught the terminal. Using mostly OpenCV, Dbil and Imutils
 
