@@ -25,5 +25,6 @@ Face recognition with a Raspberry pi camera: Using a raspberry pi, create a syst
 
 Traffic sign recognition. Working with the German Traffic Sign Benchmark dataset, creating a model that's able to properly recognize the different traffic signs and classify them properly. Using a CNN model and the keras library.
 
-Whatsapp chat analyzer.
+Whatsapp chat analyzer. Whatsapp allows you to export your chat into a txt file, using this file, we can do some data analysis to get the most relevant information about our chats.
 
+Flight delay predictor. Using the "2015 Flight Delays and Cancellations" dataset, we analyze some interesting data about flights in the US, and we can try to use some models to make predictions about delayed flights.
