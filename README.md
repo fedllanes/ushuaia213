@@ -1,7 +1,6 @@
 ### Hi there 👋. I'm Federico. I'm a telecom engineer from Argentina that's trying to break in into the data science universe. 
  
-<!--https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1-->
-<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
+<img align='right' src='https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1' width='200"'>
 
 
 - 🇪🇸 I’m currently doing a big data masters in Madrid.
